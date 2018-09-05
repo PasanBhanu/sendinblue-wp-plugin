@@ -1,5 +1,4 @@
-# sendinblue-wp-plugin
+# Sendin Blue Wordpress Plugin
 This is a wordpress plugin for Sending Blue email service
 
-Plugin Folder Name : sl_sendinblue_mailtrack
 Wordpress Version : 4.9.8
