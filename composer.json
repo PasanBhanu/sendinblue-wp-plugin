@@ -1,0 +1,17 @@
+{
+    "name": "dell/sendinblue-wp-plugin",
+    "description": "Softinklab user tracking plugin",
+    "type": "project",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Ishan",
+            "email": "ishanw20@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+        "autoload": {
+        "psr-4": {"Inc\\": "./inc"}
+    }
+}
