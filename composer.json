@@ -1,0 +1,17 @@
+{
+    "name": "softinklab/sendinblue-wp-plugin",
+    "description": "Sending Blue Tracker Plugin",
+    "type": "project",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Softink Lab",
+            "email": "info@softinklab.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {"Inc\\": "./inc"}
+    }
+}
